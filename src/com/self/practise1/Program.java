@@ -15,7 +15,7 @@ public class Program {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-       String Firstname="Bidhan";
+       String Firstname="Bigyan";
        String Lastname= "Subedi";
        String Fullname= (Firstname+" "+Lastname).toLowerCase();
        String domain= "@self.com";
